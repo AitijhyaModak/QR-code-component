@@ -2,7 +2,7 @@ body{
     background-color:hsl(212, 45%, 89%);
     display:flex;
     justify-content: center;
-    align-items: center;;
+    align-items: center;
     height:100vh;
     margin:0;
     padding:0;
@@ -44,7 +44,11 @@ body{
 
 @media (max-height: 410px){
     .qr-box{
-        width:90vw;
+        width:87vw;
         height:70vh;
+    }
+    .qr-box img{
+        width:95%;
+        margin-top:2.5%;
     }
 }
