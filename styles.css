@@ -45,7 +45,6 @@ body{
 @media (max-height: 410px){
     .qr-box{
         width:87vw;
-        height:70vh;
     }
     .qr-box img{
         width:95%;
